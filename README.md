@@ -9,7 +9,7 @@
 - [Insights](#insights)
 - [Dashboard](#dashboard)
 - [Recommendations](#recommendations)
-- [Next Steps](next-steps)
+- [Next Steps](#next-steps)
    
 ### Problem Statement
 
