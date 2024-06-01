@@ -4,6 +4,13 @@
 - [Objectives](#objectives)
 - [The Data](#the-data)
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Aanlysis](#data-anlysis)
+- [Insights](#insights)
+- [Dashboard](#dashboard)
+- [Recommendations](#recommendations)
+- [Next Steps](next-steps)
+   
 ### Problem Statement
 
 Over the past 5 years, Social Buzz has reached over 500 million active users each month.
