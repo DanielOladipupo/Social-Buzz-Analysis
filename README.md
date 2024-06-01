@@ -67,7 +67,7 @@ The project answer to the following questions:
 - What are the distribution of each categories?
 - Which of the months have the highest Content?
 
-### Data Aanlysis
+### Data Analysis
 This include a formular code used in this project to derive the aggregations of values base on condition
 
 ```Excel
